@@ -32,6 +32,10 @@ const routeList: RouteProps[] = [
     href: "/contributors",
     label: "Contributors",
   },
+  {
+    href: "https://arxiv.org/abs/2406.10118",
+    label: "Paper",
+  },
 ];
 
 export const Navbar = () => {
