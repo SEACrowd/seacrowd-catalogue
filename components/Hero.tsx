@@ -116,7 +116,7 @@ export const Hero = () => {
             SEACrowd
           </a>{" "}
           initiative. Consider{" "}
-          <Link href="/contributors" className="underline">
+          <Link href="https://arxiv.org/abs/2406.10118" className="underline">
             citing us
           </Link>{" "}
           alongside the dataset you used for your scientific work.
